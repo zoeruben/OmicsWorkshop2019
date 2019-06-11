@@ -5,3 +5,4 @@ isTriangular <- function(y){
   }
   return(FALSE)
 }
+#test change
